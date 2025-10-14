@@ -1,0 +1,12 @@
+build*
+compile_commands.json
+.cache/
+.idea/
+.vscode/
+.cores/
+.ccache/
+.pgdata/
+.devcontainer/
+cmake-build-*
+bin/
+CMakeFiles/
